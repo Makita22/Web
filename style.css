@@ -1,0 +1,12 @@
+
+.colortexto{
+color:purple;
+font-size:50px;
+text-align:center;
+font-style:italic;
+font-family:Times New Roman;
+}
+
+#imageOwner: {
+ border-radius:100px;
+}
